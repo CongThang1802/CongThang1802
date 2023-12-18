@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nguyen Cong Thang</h1>
 <h3 align="center">A passionate fullstack developer from Vietnam</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iloveboss_vtt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iloveboss_vtt" height="30" width="40" /></a>
