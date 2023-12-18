@@ -4,6 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iloveboss_vtt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iloveboss_vtt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ilovebossvtt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilovebossvtt" height="30" width="40" /></a>
 <a href="https://fb.com/ilovebossvtt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ilovebossvtt" height="30" width="40" /></a>
 </p>
 
